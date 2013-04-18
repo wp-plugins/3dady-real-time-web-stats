@@ -42,7 +42,7 @@ For more information, check out [3dady.com](http://www.3dady.com/).
 
 == Installation ==
 
-1. Upload the entire '3dady' folder to the '/wp-content/plugins/' directory
+1. Upload the entire '3dady-real-time-web-stats' folder to the '/wp-content/plugins/' directory
 2. Activate the plugin through the 'Plugins' menu in WordPress
 
 OR
