@@ -6,7 +6,7 @@ Tested up to: 3.5.1
 Stable tag: 1.0
 License: OpenSource under GPL2
 
-Hit Counter/real-time web stats
+Hit Counter Sidebar widget/real-time web stats 
 
 
 == Description ==
