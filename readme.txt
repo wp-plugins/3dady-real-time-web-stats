@@ -10,7 +10,7 @@ Hit Counter Sidebar widget/real-time web stats
 
 
 == Description ==
-know the number of visitors of your own website in real-time, 3dady is a perfect free counter and web stats which indicates the exact number of visitors of your website easily.!
+know the number of visitors of your own website in real-time, 3dady is a perfect free counter and web stats which indicates the exact number of visitors of your website easily with amazing statistics.
 
 For more information, check out [3dady.com](http://www.3dady.com/).
 
@@ -31,8 +31,7 @@ For more information, check out [3dady.com](http://www.3dady.com/).
 
 = Notes* =
  
- 1. this Plugin only works with Sidebar widget 
- 
+ 1. this Plugin only works with Sidebar widget
  2. Get the key and Position in the browser from [3dady Stats](http://www.3dady.com/)
 
 == Installation ==
@@ -47,7 +46,7 @@ or
 
 1. Go to your WordPress dashboard and click on 'Plugins' then the 'Add New' menu item.
 2. On the install plugin screen search for the 3dady plugin and then click on the 'search plugins' button to initiate the search
-3. The search results are then shown 3dady real-time web stats. Clicking on 'install now' will automatically Activate Plugin
+3. The search results are then shown "3dady real-time web stats" Clicking on 'install now' will automatically Activate Plugin
 4. Go to the 3dady Stats menu,  Get the key and Position in the browser from 3dady Stats
 5. Check the box to enable Sidebar widget.
 
