@@ -42,12 +42,11 @@ For more information, check out [3dady.com](http://www.3dady.com/).
 
 == Installation ==
 
-1. Upload plugin to the '/wp-content/plugins/' directory
-2. Activate the plugin through the 'Plugins' menu in WordPress
-
-OR
-
-1. Use the plugin installer inside of WordPress
+1. Download the zip file and extract the contents.
+2. Upload the folder 3dady-real-time-web-stats to the /wp-content/plugins/ directory
+3. Activate the plugin through the 'Plugins' menu in WordPress
+4. Go to the 3dady Stats menu,  Get the key and Position in the browser from 3dady Stats http://www.3dady.com/getcounter
+5. Check the box to enable Sidebar widget.
 
 == Frequently Asked Questions ==
 
