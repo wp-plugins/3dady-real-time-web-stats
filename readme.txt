@@ -20,18 +20,13 @@ For more information, check out [3dady.com](http://www.3dady.com/).
 * [DEMO 2](http://www.3dady.com/demo1.php)
 * [DEMO 3](http://www.3dady.com/demo2.php)
 
-= How to Use this?=
+= How to Use this? =
 
 1. Simply goto the admin panel
-
 2. Straight down to "Settings" Menu
-
 3. Get the key and Position in the browser from 3dady Stats http://www.3dady.com/getcounter You must choose Sidebar Widget
-
 4. after finishing successfully,Counter code will be ready to use and you have to Click on "Add To WordPress"
-
 5. Copy the key and position in the browser then put them in the fields at the top and Save
-
 6. Check the box to enable Sidebar widget.
 
 = Notes* =
@@ -48,6 +43,14 @@ For more information, check out [3dady.com](http://www.3dady.com/).
 4. Go to the 3dady Stats menu,  Get the key and Position in the browser from 3dady Stats http://www.3dady.com/getcounter
 5. Check the box to enable Sidebar widget.
 
+or
+
+1. Go to your WordPress dashboard and click on 'Plugins' then the 'Add New' menu item.
+2. On the install plugin screen search for the 3dady plugin and then click on the 'search plugins' button to initiate the search
+3. The search results are then shown 3dady real-time web stats. Clicking on 'install now' will automatically Activate Plugin
+4. Go to the 3dady Stats menu,  Get the key and Position in the browser from 3dady Stats
+5. Check the box to enable Sidebar widget.
+
 == Frequently Asked Questions ==
 
 = Where can I signup for 3dady stats? =
@@ -60,17 +63,12 @@ YES, but less features
 No, this Plugin only works with Sidebar widget.
 
 = How to create a private Hit Counter Sidebar widget? =
-1- Signup 3dady Stats to use extended features, and private widget http://www.3dady.com/signup
-
-2- Sign In and Create a new project
-
-3- Fill out the form and add your website URL in field "URL of your project"
-
-4- choose Statistics >> access Access only for me
-
-5- choose Position in the browser >> private bottom and submit form
-
-6- Enjoy
+1. Signup 3dady Stats to use extended features, and private widget http://www.3dady.com/signup
+2. Sign In and Create a new project
+3. Fill out the form and add your website URL in field "URL of your project"
+4. choose Statistics >> access Access only for me
+5. choose Position in the browser >> private bottom and submit form
+6. Enjoy
 
 == Screenshots ==
 1. Administration interface
